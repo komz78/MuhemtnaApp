@@ -1,6 +1,7 @@
 # MuhemtnaApp
 Social Task Management app
-Personal Project - by Kamel albaqshi (Me)
+
+Personal Project - by Kamel albaqshi (komz78)
 
 Download app here
 https://itunes.apple.com/sa/app/مهمتنا/id1436449265?mt=8
@@ -16,6 +17,7 @@ https://itunes.apple.com/sa/app/مهمتنا/id1436449265?mt=8
 
 مهمتنا،، رتب مهامك بسهولة مع مجموعاتك.
 المنصة الرقمية العربية الأولى المهتمه في تنسيق المهام بين المجموعات بشكل سهل وبسيط.
+
 
  عبر تطبيق مهمتنا سوف تتمكن من: 
 🔘إختيار اسم عرض.
